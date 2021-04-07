@@ -1,6 +1,9 @@
 # HeatMap_Berlin
 ***
-
+### Structure
+* *Berlin_Bezirke.shp*
+* *Berlin_HeatMap.ipynb*
+* *Glascontainer.json*
 ### Getting Started
 #### Installing Geopandas 
 Install Geopandas in an IDE (PyCharm was used here).\
